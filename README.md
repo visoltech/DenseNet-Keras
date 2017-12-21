@@ -1,3 +1,9 @@
+# This is forked from https://github.com/flyyufelix/DenseNet-Keras
+
+Many thanks to original contributer and flyyufelix
+
+
+
 # DenseNet-Keras with ImageNet Pretrained Models
 
 This is an [Keras](https://keras.io/) implementation of DenseNet with [ImageNet](http://www.image-net.org/) pretrained weights. The weights are converted from [Caffe Models](https://github.com/shicai/DenseNet-Caffe). The implementation supports both [Theano](http://deeplearning.net/software/theano/) and [TensorFlow](https://www.tensorflow.org/) backends.
